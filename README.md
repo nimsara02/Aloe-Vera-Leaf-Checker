@@ -1,17 +1,28 @@
-# aloe_vera_leaf_check
+🌿 Aloe Vera Leaf Checker
 
-A new Flutter project.
+An AI-powered mobile application that uses deep learning to analyze Aloe Vera leaves by detecting leaf diseases and leaf colour/quality.
 
-## Getting Started
+🔍 Features
+Aloe Vera disease detection
+Aloe Vera colour classification
+Deep learning-based image analysis
+Mobile application for real-world use
+Testing on unseen images
+🧠 Models
 
-This project is a starting point for a Flutter application.
+We evaluated MobileNet, EfficientNet, and TResNet.
+TResNet was selected based on its overall generalization performance.
 
-A few resources to get you started if this is your first Flutter project:
+🛠️ Technologies
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Python • TensorFlow/Keras • Flutter • Dart • TensorFlow Lite
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📱 Application
+
+The Aloe Vera Leaf Checker mobile app is also included in this repository.
+
+👥 Team
+
+Team Byte Bloomers
+
+Developed as an academic/research project for Aloe Vera leaf quality analysis.
